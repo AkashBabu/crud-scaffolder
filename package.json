@@ -1,0 +1,23 @@
+{
+  "name": "crud-scaffolder",
+  "version": "1.0.0",
+  "description": "Create a basic folder structure for CRUD operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashBabu/crud-scaffolder.git"
+  },
+  "keywords": [
+    "crud",
+    "scaffolder"
+  ],
+  "author": "Akash Babu <001akashbabu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AkashBabu/crud-scaffolder/issues"
+  },
+  "homepage": "https://github.com/AkashBabu/crud-scaffolder#readme"
+}
