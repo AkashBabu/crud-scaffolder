@@ -14,10 +14,18 @@
     "crud",
     "scaffolder"
   ],
+  "bin": {
+    "scaffold": "./index.js"
+  },
   "author": "Akash Babu <001akashbabu@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/AkashBabu/crud-scaffolder/issues"
   },
-  "homepage": "https://github.com/AkashBabu/crud-scaffolder#readme"
+  "homepage": "https://github.com/AkashBabu/crud-scaffolder#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "fs-jetpack": "^0.10.5",
+    "string": "^3.3.3"
+  }
 }
